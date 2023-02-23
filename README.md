@@ -1,9 +1,6 @@
 # Loony-Lists
-## Term Project COEN 12 Data Structures Course 
-Combined linked list with array
+This was my Term Project COEN 12 Data Structures Course 
 
-run 
-```
-make
-./maze
-```
+In this project directory, run 
+ ## ``make``
+ ## ``./maze``
